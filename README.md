@@ -1,4 +1,4 @@
-ชื่อ - นามสกุล (Full Name): Phorn Potjanasuj
+![Image_25680425_175947_348](https://github.com/user-attachments/assets/e4919b9c-8ff7-460a-86c5-660afc5b1289)ชื่อ - นามสกุล (Full Name): Phorn Potjanasuj
 รหัสนักศึกษา (Student ID): 6631503029
 ชื่อแอป (App Name): BloomBuddy
 Framework ที่ใช้ (Framework Used): React Native / Expo go
@@ -28,7 +28,9 @@ Personal 2:
   
 1.3 โครงร่างหน้าจอ / Mockup
 ใส่รูปภาพ หรือคำอธิบายแต่ละหน้าหลัก 3 หน้า | Attach image or describe 3 main pages
-![Uploading Image_25680425_175947_348.png…]()
+![unnamed](https://github.com/user-attachments/assets/6c64969d-0cf2-4ae6-8cb7-ef3a3a45712d)
+
+
 
 
 1.4 การไหลของผู้ใช้งาน | User Flow
