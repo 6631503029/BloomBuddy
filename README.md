@@ -2,7 +2,7 @@
 รหัสนักศึกษา (Student ID): 6631503029
 ชื่อแอป (App Name): BloomBuddy
 Framework ที่ใช้ (Framework Used): React Native / Expo go
-ลิงก์ GitHub Repository: [ใส่ลิงก์ที่นี่ | Insert link here]
+ลิงก์ GitHub Repository: [[ใส่ลิงก์ที่นี่ | Insert link here](https://github.com/6631503029/BloomBuddy)]
 ลิงก์ไฟล์ติดตั้ง (APK/IPA): [ใส่ลิงก์ที่นี่ | Insert link here]
 
 1. การออกแบบแอป | App Concept and Design (2 คะแนน / 2 pts)
