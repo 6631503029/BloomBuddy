@@ -3,7 +3,7 @@
 ชื่อแอป (App Name): BloomBuddy
 Framework ที่ใช้ (Framework Used): React Native / Expo go
 ลิงก์ GitHub Repository: [[ใส่ลิงก์ที่นี่ | Insert link here](https://github.com/6631503029/BloomBuddy)]
-ลิงก์ไฟล์ติดตั้ง (APK/IPA): [[ใส่ลิงก์ที่นี่ | Insert link here](https://expo.dev/accounts/6631503029/projects/bb/builds/ba80d628-ec27-485c-ad44-db6a8c86a2b7)]
+ลิงก์ไฟล์ติดตั้ง (APK/IPA): https://expo.dev/accounts/6631503029/projects/bb/builds/e7b9ca54-6665-4ef7-a4fb-235a8b432fd4
 
 1. การออกแบบแอป | App Concept and Design (2 คะแนน / 2 pts)
 1.1 ผู้ใช้งานเป้าหมาย | User Personas
@@ -44,7 +44,7 @@ Personal 2:
   
 2.2 ฟังก์ชันที่พัฒนา | Features Implemented
 Checklist:
-- [x] เพิ่มข้อมูลการต้นไม้ได้
+- [x] เพิ่มต้นไม้ใหม่ (ชื่อ + ระยะเวลารดน้ำ)
 - [x] ดูวันที่ต้องรดน้ำต้นไม้ได้
 - [x] มีหน้ารวมต้นไม้ที่บันทึก
 - [ ] มีแจ้งเตือน
@@ -78,26 +78,20 @@ Checklist:
   
 5. การใช้ AI ช่วยพัฒนา | AI Assisted Development (Bonus / ใช้ประกอบการพิจารณา)
 5.1 ใช้ AI ช่วยคิดไอเดีย | Idea Generation
-Prompt ที่ใช้:  "ขอไอเดียสร้างแอป react native ที่สามารถเก็บข้อมูล database ผ่าน local ได้"
-ผลลัพธ์:  ได้ไอเดียแอปต่างๆ แต่เลือกแอปเกี่ยวกับดูแลต้นไม้มา
+Prompt ที่ใช้: "Suggest app ideas for a simple, cute plant care reminder app."
+ผลลัพธ์:  ได้ไอเดียแอปรดน้ำต้นไม้ พร้อมระบบเตือนที่น่ารักและมินิมอล
 
 5.2 ใช้ AI ช่วยออกแบบ UI | UI Layout Prompt
-Prompt ที่ใช้:  "ช่วยเสนอแนวคิดเพิ่มหน่อย ทั้งชื่อแอป และ screens สัก 3 หน้า"
-ผลลัพธ์:  ได้ชื่อแอปมา และ โครงสร้างแต่ละหน้าว่าควรมีฟีเจอร์อะไรบ้าง
+Prompt ที่ใช้: "Minimal cute layout for a plant reminder app in React Native."
+ผลลัพธ์:  ได้ไอเดีย Layout โทนสีขาวเขียว สไตล์น่ารัก
 
 5.3 ใช้ AI ช่วยเขียนโค้ด | Code Writing Prompt
-Prompt ที่ใช้:  can you craete src folder and make My Plants Screen (Home)
-Displays a list of trees that the user has added, each card displays (tree name, image (from camera or gallery), date of last watering, "Watered" button), FAB (Floating Action Button) For adding new trees. create Add/Edit Plant Screen
-There is a form to enter the tree details: name, photo, description,watering frequency (how many days), category (e.g., flowering plants, ornamental plants, edibles), and the "Save" button.
-Care Schedule Screen
-- Calendar or list by day
-- It shows which plants need to be watered today/tomorrow.
-- Connect with Notification API
-ผลลัพธ์:  ได้หน้า screens มา 3 หน้า แต่ยังไม่สมบูรณ์ แค่โครงร่างคร่าวๆ
+Prompt ที่ใช้: "React Native code for a simple Add Plant form with validation."
+ผลลัพธ์: ได้โครงสร้างฟอร์ม พร้อมปรับให้รองรับการเพิ่มชื่อและระยะเวลารดน้ำ
 
 5.4 ใช้ AI ช่วย debug | Debug Prompt
-Prompt ที่ใช้:  "make every bottom can click"
-ผลลัพธ์:  AI ทำโค้ดให้ใหม่
+Prompt ที่ใช้:  "React Native navigate error: No screen found with name 'Add Plant'."
+ผลลัพธ์:  AI แนะนำให้ตรวจสอบ Stack.Navigator ว่าตั้งชื่อหน้าถูกหรือไม่
 
 5.5 ใช้ AI ช่วย Deploy | Deployment Prompt
 Prompt ที่ใช้:  "How to build React native app as APK and test on Android?"
