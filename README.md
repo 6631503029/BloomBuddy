@@ -18,23 +18,23 @@ Personal 2:
 - ชื่อ: ลูกจัน  
 - อายุ: 20 ปี  
 - อาชีพ: นักศึกษาปี 2   
-- ความต้องการ: อยากใช้แอปที่บอกว่าต้นไม้ไหนถึงเวลารดน้ำ,ใส่ปุ๋ย หรือเปลี่ยนกระถาง
+- ความต้องการ: อยากใช้แอปที่บอกว่าต้นไม้ไหนถึงเวลารดน้ำ
   
 1.2 เป้าหมายของแอป | App Goals
 - ให้ผู้ใช้สามารถ ดูแลต้นไม้ได้อย่างมีระบบ
-- ช่วยเตือนเวลาที่ควรรดน้ำ/ใส่ปุ๋ย/เปลี่ยนกระถาง
+- ช่วยเตือนเวลาที่ควรรดน้ำ
 - ลดโอกาสต้นไม้เฉาตายจากการลืมดูแล
 - บันทึกข้อมูลต้นไม้แต่ละต้นได้อย่างละเอียด
   
 1.3 โครงร่างหน้าจอ / Mockup
 ใส่รูปภาพ หรือคำอธิบายแต่ละหน้าหลัก 3 หน้า | Attach image or describe 3 main pages
-![My Plants](https://github.com/user-attachments/assets/6c64969d-0cf2-4ae6-8cb7-ef3a3a45712d)
-![Care Schedule](https://github.com/user-attachments/assets/09ddca44-0cf3-4321-bf31-7211bf5cda9c)
-![Add Plant](https://github.com/user-attachments/assets/cf7724ec-bf6c-4e10-81db-d02d85118b22)
-![Add PLant](https://github.com/user-attachments/assets/7282aae4-0848-4515-a21e-056c9d07816d)
+![My Plant](https://github.com/user-attachments/assets/ccfd121d-35b7-4714-a28b-dd3d8f0137df)
+![Add Plant](https://github.com/user-attachments/assets/c08dc60a-fc90-4784-8947-8a71d36cfacc)
+![Add Plant](https://github.com/user-attachments/assets/dd6f4d92-cdf6-4b00-a07b-125f5b5eb0bf)
+![Reminder](https://github.com/user-attachments/assets/ca23086d-3b59-461f-9937-b06e9980cd9d)
 
 1.4 การไหลของผู้ใช้งาน | User Flow
-เปิดแอป > เข้าหน้าหลัก My Plants > เลือก "+" > ใส่รายละเอียดต้นไม้ > กด save > ดูต้นไม้ที่ต้องรดน้ำหน้า Care Schedule
+เปิดแอป > เข้าหน้าหลัก My Plants > เลือก "Add Plant" > ใส่รายละเอียดต้นไม้ > กด "Save Plant" > ดูต้นไม้ที่ต้องรดน้ำหน้า Reminder
 
 2. การพัฒนาแอป | App Implementation (4 คะแนน / 4 pts)
 2.1 รายละเอียดการพัฒนา | Development Details
@@ -44,17 +44,17 @@ Personal 2:
   
 2.2 ฟังก์ชันที่พัฒนา | Features Implemented
 Checklist:
-- [x] เพิ่มและแก้ไขข้อมูลการต้นไม้ได้
+- [x] เพิ่มข้อมูลการต้นไม้ได้
 - [x] ดูวันที่ต้องรดน้ำต้นไม้ได้
 - [x] มีหน้ารวมต้นไม้ที่บันทึก
 - [ ] มีแจ้งเตือน
 
 2.3 ภาพหน้าจอแอป | App Screenshots
 แนบภาพหรือ URL (Attach images or image links):
-![My Plants](https://github.com/user-attachments/assets/6c64969d-0cf2-4ae6-8cb7-ef3a3a45712d)
-![Care Schedule](https://github.com/user-attachments/assets/09ddca44-0cf3-4321-bf31-7211bf5cda9c)
-![Add Plant](https://github.com/user-attachments/assets/cf7724ec-bf6c-4e10-81db-d02d85118b22)
-![Add PLant](https://github.com/user-attachments/assets/7282aae4-0848-4515-a21e-056c9d07816d)
+![My Plant](https://github.com/user-attachments/assets/ccfd121d-35b7-4714-a28b-dd3d8f0137df)
+![Add Plant](https://github.com/user-attachments/assets/c08dc60a-fc90-4784-8947-8a71d36cfacc)
+![Add Plant](https://github.com/user-attachments/assets/dd6f4d92-cdf6-4b00-a07b-125f5b5eb0bf)
+![Reminder](https://github.com/user-attachments/assets/ca23086d-3b59-461f-9937-b06e9980cd9d)
 
 3. การ Build และติดตั้งแอป | Deployment (2 คะแนน / 2 pts)
 3.1 ประเภท Build | Build Type
