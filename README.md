@@ -3,7 +3,7 @@
 ชื่อแอป (App Name): BloomBuddy
 Framework ที่ใช้ (Framework Used): React Native / Expo go
 ลิงก์ GitHub Repository: [[ใส่ลิงก์ที่นี่ | Insert link here](https://github.com/6631503029/BloomBuddy)]
-ลิงก์ไฟล์ติดตั้ง (APK/IPA): [ใส่ลิงก์ที่นี่ | Insert link here]
+ลิงก์ไฟล์ติดตั้ง (APK/IPA): [[ใส่ลิงก์ที่นี่ | Insert link here](https://expo.dev/accounts/6631503029/projects/bb/builds/ba80d628-ec27-485c-ad44-db6a8c86a2b7)]
 
 1. การออกแบบแอป | App Concept and Design (2 คะแนน / 2 pts)
 1.1 ผู้ใช้งานเป้าหมาย | User Personas
@@ -62,8 +62,8 @@ Checklist:
 [ ] Release
 
 3.2 แพลตฟอร์มที่ทดสอบ | Platform Tested
-[ ] Android
-[x] iOS
+[x] Android
+[ ] iOS
 
 3.3 ไฟล์ README และวิธีติดตั้ง | README & Install Guide
 แนบไฟล์หรือคำอธิบายการติดตั้งแอป | Insert steps
@@ -100,5 +100,5 @@ Prompt ที่ใช้:  "make every bottom can click"
 ผลลัพธ์:  AI ทำโค้ดให้ใหม่
 
 5.5 ใช้ AI ช่วย Deploy | Deployment Prompt
-Prompt ที่ใช้:  "How to build Flutter app as APK and test on Android?"
-ผลลัพธ์:  คำสั่ง flutter build apk --release พร้อมวิธีติดตั้ง
+Prompt ที่ใช้:  "How to build React native app as APK and test on Android?"
+ผลลัพธ์:  AI แนะนำวิธีและให้คำสั่งมา
